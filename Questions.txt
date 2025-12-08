@@ -1,0 +1,33 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>1. Advanced Graph Algorithms and Efficiency
+
+1.How does the Bellman-Ford algorithm detect a negative-weight cycle, and why does it have a time complexity of O(V * E)?
+
+2.What is the purpose of Floyd-Warshall's algorithm, and how does its dynamic programming approach result in an O(V^3) time complexity?
+
+3.Explain the two key heuristics (Union-by-Rank and Path Compression) used with the Disjoint-Set structure in Kruskal's algorithm, and how they contribute to its O(E log E) efficiency.
+
+4.What is the functional difference between Breadth-First Search (BFS) and Depth-First Search (DFS) in graph traversal?
+
+5.  What advantage does the Bellman-Ford algorithm have over Dijkstra's algorithm?
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2. Algorithmic Paradigms and Logic
+
+6.  Compare and contrast Dynamic Programming and Greedy Algorithms regarding their approach (top-down vs. bottom-up) and whether they guarantee an **optimal result.
+
+7.  How is Huffman Coding classified as a greedy algorithm, and what specific property must the resulting code have?
+
+8.  Explain the solution mechanism for the N-Queens Problem** using Backtracking, and state the theoretical worst-case time complexity.
+
+9.  Describe the core functionality and respective time complexities of the Rabin-Karp and KMP pattern matching algorithms.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>3. Sorting and Computational Complexity (P vs. NP)
+
+10. Explain why Counting Sort is considered linear time O(n+k), and what assumption about the input data makes this possible.
+
+11. Define the difference between a Hamiltonian Cycle and an **Eulerian Cycle.
+
+12. What two conditions must a problem meet to be definitively classified as NP-Complete (NPC), and what does this imply about finding a solution?
+
+13. How does the concept of a "certificate" relate to the ability to efficiently verify solutions for problems in Class NP?
+

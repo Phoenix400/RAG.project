@@ -1,0 +1,12 @@
+cd ~/Documents/RAG.project
+
+pip3 install -r requirements.txt
+
+python3 ingest.py == [data -> vectors -> database]
+
+python3 app.py == [to run the manually in the complier]
+
+python3 -m streamlit run ui_app.py == [to start the app] 
+
+
+
