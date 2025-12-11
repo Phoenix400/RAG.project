@@ -1,5 +1,7 @@
 # RAG.project
 
+This project helps students quickly get answers to algorithm questions using a lightweight local LLM.
+
 RAG Based Algorithm Question Answering System
 
 
